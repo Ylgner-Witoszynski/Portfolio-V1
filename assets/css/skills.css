@@ -1,0 +1,67 @@
+.skills {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.skills h3 {
+    font-size: 1.2rem;
+}
+
+.skills .tools ul,
+.skills .personal ul {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.skills .tools ul {
+    flex-direction: row;
+    align-items: center;
+}
+
+.skills .tools ul li img {
+    width: 48px;
+    height: 48px;
+    object-fit: contain;
+    margin: 0 .75rem;
+}
+
+.skills .personal ul {
+    flex-direction: column;
+    list-style: disc; /* Use default disc bullets */
+}
+
+.skills .personal ul li {
+    margin: .25rem 0;
+    padding-left: 1rem;
+    position: relative;
+    font-size: 0.9rem;
+}
+
+
+
+@media only screen and (min-width: 768px) {
+    .skills {
+        flex-direction: row;
+    }
+
+    .skills .tools,
+    .skills .personal {
+        flex: 1 1 50%;
+    }
+
+    .skills .personal {
+        padding-left: 2rem;
+    }
+
+    .skills h3 {
+        font-size: 1.4rem;
+    }
+
+    .skills .personal ul li {
+        font-size: 1rem;
+    }
+}
