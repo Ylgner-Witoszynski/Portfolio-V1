@@ -18,7 +18,7 @@
     height: 1.25rem;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url('../img/icons/header.svg');
+    background-image: url('/assets/img/icons/header.svg');
 }
 
 .header .photo {
@@ -62,19 +62,19 @@
 }
 
 .information .usuario::before {
-    background-image: url('../img/icons/usuario.svg');
+    background-image: url('/assets/img/icons/usuario.svg');
 }
 
 .information .localiza::before {
-    background-image: url('../img/icons/localiza.svg');
+    background-image: url('/assets/img/icons/localiza.svg');
 }
 
 .information .telefone::before {
-    background-image: url('../img/icons/telefone.svg');
+    background-image: url('/assets/img/icons/telefone.svg');
 }
 
 .information .email::before {
-    background-image: url('../img/icons/email.svg');
+    background-image: url('/assets/img/icons/email.svg');
 }
 
 @media only screen and (min-width: 768px) {
