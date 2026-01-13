@@ -54,22 +54,26 @@ Basta abrir o arquivo `index.html` em qualquer navegador moderno.
 
 ### Opção 2 — Clonando o repositório
 
-```bash
 # Clone o repositório
+```bash
 git clone https://github.com/Ylgner-Witoszynski/seu-repositorio.git
+```
 
 # Acesse a pasta do projeto
+```bash
 cd seu-repositorio
+```
+
 
 # Abra o arquivo index.html no navegador
 💡 Recomenda-se utilizar extensões como Live Server no VS Code para melhor experiência durante o desenvolvimento.
 
-```
+
 ---
 
 ## 📬 Contato
 
-**Ylgner W Santana**
+**Ylgner Witoszynski Santana**
 
 - 📧 **Email:** ylgner.wsantana@gmail.com
 - 📞 **Telefone:** (11) 9 7880-4100
