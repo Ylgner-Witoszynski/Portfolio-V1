@@ -31,7 +31,7 @@
 
 .skills .personal ul {
     flex-direction: column;
-    list-style: disc; /* Use default disc bullets */
+    list-style: disc; 
 }
 
 .skills .personal ul li {
