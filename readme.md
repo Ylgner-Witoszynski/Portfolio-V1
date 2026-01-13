@@ -28,9 +28,15 @@ O projeto foi pensado com foco em:
 
 ## 🖼️ Preview do Portfólio
 
+### 🏠 Home (Tela Inicial)
+
 <p align="center">
   <img src="home.png" alt="Página Inicial do Portfólio" width="800">
 </p>
+
+---
+
+### 🧠 Seção 
 
 <p align="center">
   <img src="skills.png" alt="Seção de Skills" width="800">
