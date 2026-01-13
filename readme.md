@@ -29,7 +29,7 @@ O projeto foi pensado com foco em:
 ## 🖼️ Preview do Portfólio
 
 <p align="center">
-  <img src=home.png" alt="Página Inicial do Portfólio" width="800">
+  <img src="home.png" alt="Página Inicial do Portfólio" width="800">
 </p>
 
 <p align="center">
