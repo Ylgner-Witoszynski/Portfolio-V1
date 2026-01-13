@@ -26,6 +26,18 @@ O projeto foi pensado com foco em:
 
 ---
 
+## 🖼️ Preview do Portfólio
+
+<p align="center">
+  <img src="assets/readme/home.png" alt="Página Inicial do Portfólio" width="800">
+</p>
+
+<p align="center">
+  <img src="assets/readme/skills.png" alt="Seção de Skills" width="800">
+</p>
+
+---
+
 ## ▶️ Como Executar o Projeto
 
 Você pode visualizar o portfólio de duas formas:
