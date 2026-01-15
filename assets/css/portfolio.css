@@ -40,11 +40,11 @@
     display: inline-block;
     width: 1.5rem;
     height: 1.5rem;
-    background-color: #55569E;
-    -webkit-mask-image: url('../img/icons/github.svg');
-    mask-image: url('../img/icons/github.svg');
-    mask-repeat: no-repeat;
-    mask-size: contain;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-image: url('../img/icons/github.svg');
+    /* This filter is to change the icon color to #55569E */
+    filter: invert(30%) sepia(100%) saturate(200%) hue-rotate(220deg) brightness(90%) contrast(80%);
     margin-right: .5rem;
 }
 
