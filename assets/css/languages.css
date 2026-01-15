@@ -22,8 +22,10 @@
     display: inline-block;
     width: 1.25rem;
     height: 1.25rem;
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-image: url('../img/icons/check.svg');
+    background-color: #55569E;
+    -webkit-mask-image: url('../img/icons/check.svg');
+    mask-image: url('../img/icons/check.svg');
+    mask-repeat: no-repeat;
+    mask-size: contain;
     margin-right: .5rem;
 }

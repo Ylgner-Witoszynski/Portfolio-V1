@@ -16,9 +16,11 @@
     right: 1rem;
     width: 2.5rem;
     height: 1.25rem;
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-image: url('../img/icons/header.svg');
+    background-color: #55569E;
+    -webkit-mask-image: url('../img/icons/header.svg');
+    mask-image: url('../img/icons/header.svg');
+    mask-repeat: no-repeat;
+    mask-size: contain;
 }
 
 .header .photo {
@@ -62,19 +64,35 @@
 }
 
 .information .usuario::before {
-    background-image: url('../img/icons/usuario.svg');
+    background-color: #55569E;
+    -webkit-mask-image: url('../img/icons/usuario.svg');
+    mask-image: url('../img/icons/usuario.svg');
+    mask-repeat: no-repeat;
+    mask-size: contain;
 }
 
 .information .localiza::before {
-    background-image: url('../img/icons/localiza.svg');
+    background-color: #55569E;
+    -webkit-mask-image: url('../img/icons/localiza.svg');
+    mask-image: url('../img/icons/localiza.svg');
+    mask-repeat: no-repeat;
+    mask-size: contain;
 }
 
 .information .telefone::before {
-    background-image: url('../img/icons/telefone.svg');
+    background-color: #55569E;
+    -webkit-mask-image: url('../img/icons/telefone.svg');
+    mask-image: url('../img/icons/telefone.svg');
+    mask-repeat: no-repeat;
+    mask-size: contain;
 }
 
 .information .email::before {
-    background-image: url('../img/icons/email.svg');
+    background-color: #55569E;
+    -webkit-mask-image: url('../img/icons/email.svg');
+    mask-image: url('../img/icons/email.svg');
+    mask-repeat: no-repeat;
+    mask-size: contain;
 }
 
 @media only screen and (min-width: 768px) {
